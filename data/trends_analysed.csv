@@ -1,0 +1,73 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49890226,AI companies leak data to advertisers [pdf],technology,315,103,damaru2,2026-09-29 20:45:56.613380,0.3259493670886076,True
+49892175,Without the Hot Air,technology,61,33,0sake_rs,2026-09-29 20:45:58.755305,0.532258064516129,False
+49893709,"Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",technology,62,12,dkobia,2026-09-29 20:46:00.872248,0.19047619047619047,False
+49892958,What makes software development engineering,technology,18,24,ibobev,2026-09-29 20:46:03.934305,1.263157894736842,False
+49891550,US sanctions force The Netherlands off Microsoft and toward alternative NixOS,worldnews,277,213,mywacaday,2026-09-29 20:46:06.933343,0.7661870503597122,True
+49892120,"1 in 8 cancer cases worldwide are caused by infections, study finds",science,60,33,colinprince,2026-09-29 20:46:09.889395,0.5409836065573771,False
+49890647,"Show HN: Raven – The harness of harnesses, built for RSI",entertainment,40,32,cyfyifanchen,2026-09-29 20:46:11.910240,0.7804878048780488,False
+49891769,"Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",entertainment,12,1,tgluck,2026-09-29 20:46:13.917005,0.07692307692307693,False
+49866783,Software occlusion culling in Block Game,technology,64,4,airhangerf15,2026-09-29 20:46:17.858977,0.06153846153846154,False
+49859863,The Beatles have permeated research papers across academic disciplines,science,14,11,pseudolus,2026-09-29 20:46:21.898393,0.7333333333333333,False
+49882781,MicroLLM Lab – Try 7 tiny LLM's in the browser,technology,265,98,logicallee,2026-09-29 20:46:25.939344,0.3684210526315789,True
+49855059,"12,000-year-old Göbeklitepe burials explain scattered bones",technology,159,45,yusufaytas,2026-09-29 20:46:27.964014,0.28125,False
+49883844,"Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",technology,541,207,firelex,2026-09-29 20:46:29.052070,0.38191881918819187,True
+49879645,Updated Google Maps shows destruction of the city of Rafah,entertainment,816,686,slowin,2026-09-29 20:46:30.129433,0.8396572827417381,True
+49879883,Nvidia wants to put a watchdog chip next to every AI agent,technology,209,275,jonbaer,2026-09-29 20:46:33.224302,1.3095238095238095,True
+49877678,Does Reddit have an astroturfing problem? What the data suggests,technology,268,349,p-s-v,2026-09-29 20:46:38.419049,1.2973977695167287,True
+49883536,Scientists solve 1840s space weather mystery,science,118,52,gumby,2026-09-29 20:46:39.470202,0.4369747899159664,False
+49879401,Show HN: HN.watch – Videos of all Hacker News posts,entertainment,202,96,mrborgen,2026-09-29 20:46:43.484349,0.4729064039408867,True
+49883471,It's Time to Investigate the AI Labs,technology,558,237,ibobev,2026-09-29 20:46:44.565437,0.42397137745974955,True
+49879577,Cf: The Agentic CLI for the Cloudflare API,technology,159,80,macleos,2026-09-29 20:46:48.589050,0.5,False
+49880601,Show HN: Destroy Any Website with Stickman,entertainment,153,37,HugoDz,2026-09-29 20:46:49.716600,0.24025974025974026,False
+49885493,Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?,sports,75,44,thefourthchime,2026-09-29 20:46:51.782729,0.5789473684210527,False
+49862602,Simulating Airband AM Radios,technology,57,5,shellpipe,2026-09-29 20:46:53.885961,0.08620689655172414,False
+49876148,What would a serious AI product look like?,technology,165,74,lumpa,2026-09-29 20:46:59.915490,0.4457831325301205,False
+49872883,Nissan's third generation e-POWER powertrain,technology,161,408,mroche,2026-09-29 20:47:03.010031,2.5185185185185186,False
+49888937,Uncensored and Offensive Security AI Models Benchmark,technology,37,11,soltanov,2026-09-29 20:47:05.051428,0.2894736842105263,False
+49858756,Show HN: Museum of Numbers,entertainment,27,11,rhl314,2026-09-29 20:47:06.699772,0.39285714285714285,False
+49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",entertainment,144,61,seamus_c,2026-09-29 20:47:07.775738,0.4206896551724138,False
+49875308,Show HN: Free alternative to graphics design giants,entertainment,126,50,sia_xi,2026-09-29 20:47:08.855455,0.3937007874015748,False
+49875913,"Parley: Federated, decentralised chat that speaks plain IRC",technology,320,185,davidcollantes,2026-09-29 20:47:11.860314,0.5763239875389408,True
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,175,77,teleforce,2026-09-29 20:47:14.936165,0.4375,True
+49891721,Mistral CEO says U.S. AI safety debate masks competitors' 'negligence',technology,10,0,cramer4next,2026-09-29 20:47:16.985026,0.0,False
+49861755,"What reversing, modernising old games tells us about the economic impact of AI",technology,128,83,keeda,2026-09-29 20:47:19.058978,0.6434108527131783,False
+49849409,Writing Efficient C++ Code (2013),technology,173,149,ibobev,2026-09-29 20:47:24.090781,0.8563218390804598,False
+49886901,"Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",technology,16,3,polytap,2026-09-29 20:47:26.199688,0.17647058823529413,False
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,311,135,safaelmali,2026-09-29 20:47:30.230377,0.4326923076923077,True
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,87,39,FKJ,2026-09-29 20:47:32.289371,0.4431818181818182,False
+49887963,"AI risk is not sentience by computers, it is negligence by humans",technology,28,5,ianmosher,2026-09-29 20:47:38.313792,0.1724137931034483,False
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,153,75,theanonymousone,2026-09-29 20:47:42.364454,0.487012987012987,False
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,279,123,pancomplex,2026-09-29 20:47:55.551084,0.4392857142857143,True
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",science,295,107,danso,2026-09-29 20:48:09.573142,0.3614864864864865,True
+49876760,Show HN: Hntui – A TUI for Hacker News,entertainment,111,65,ahmd-sh,2026-09-29 20:48:22.817630,0.5803571428571429,False
+49891881,Climate is accumulating 4 Hiroshima atomic bombs worth of heat per second,worldnews,41,54,blondie9x,2026-09-29 20:48:33.662034,1.2857142857142858,False
+49879707,"First DVD player announced Sept 26, 1996",sports,9,0,ibobev,2026-09-29 20:48:43.479096,0.0,False
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,404,119,jpwalsh234,2026-09-29 20:48:51.960018,0.2938271604938272,True
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,423,107,pseudolus,2026-09-29 20:49:47.376197,0.25235849056603776,True
+49839438,"Biology might not be quantum, but its math is quantumlike",science,123,60,pseudolus,2026-09-29 20:50:01.589979,0.4838709677419355,False
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,41,13,kdautaj,2026-09-29 20:50:23.894549,0.30952380952380953,False
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",entertainment,18,6,jvanveen,2026-09-29 20:50:24.976406,0.3157894736842105,False
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-29 20:50:29.895565,0.5384615384615384,False
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-29 20:50:59.043484,0.671875,False
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,86,41,andrearitossa,2026-09-29 20:51:05.755252,0.47126436781609193,False
+49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",entertainment,8,1,andreespirela,2026-09-29 20:51:09.999828,0.1111111111111111,False
+49836590,The Board Game of the Alpha Nerds (2014),sports,123,65,neonate,2026-09-29 20:51:12.990903,0.5241935483870968,False
+49880401,The large robotic arm on the International Space Station has stopped working,science,16,3,robin_reala,2026-09-29 20:51:30.662278,0.17647058823529413,False
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1017,581,fjfaase,2026-09-29 20:51:50.995935,0.5707269155206287,True
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,entertainment,51,12,miguelrios,2026-09-29 20:52:16.078648,0.23076923076923078,False
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,544,xnx,2026-09-29 20:52:17.138146,2.334763948497854,True
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,323,333,nonfamous,2026-09-29 20:52:18.321425,1.0277777777777777,True
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,entertainment,193,63,mixedbit,2026-09-29 20:52:46.329227,0.3247422680412371,True
+49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,science,93,27,Teever,2026-09-29 20:53:04.110779,0.2872340425531915,False
+49823738,Show HN: Make cursed fonts like Times New Bastard,entertainment,859,123,MitPitt,2026-09-29 20:53:05.149831,0.14302325581395348,True
+49858409,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",entertainment,22,2,jsLavaGoat,2026-09-29 20:53:07.602147,0.08695652173913043,False
+49870654,Show HN: Jevdit – a social network moderated by Jev,entertainment,11,1,TN1ck,2026-09-29 20:53:09.620101,0.08333333333333333,False
+49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,entertainment,75,14,SouthWestAtlas,2026-09-29 20:53:12.568132,0.18421052631578946,False
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",entertainment,152,39,florianstandhar,2026-09-29 20:53:15.532942,0.2549019607843137,False
+49868710,"Show HN: Gat – Version large files with Git, without an LFS server",entertainment,7,0,davnn,2026-09-29 20:53:28.918209,0.0,False
+49811065,Transit rewards,worldnews,258,346,raybb,2026-09-29 20:53:35.810675,1.335907335907336,True
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,181,181,giuliomagnifico,2026-09-29 20:54:01.191043,0.9945054945054945,True
+49875411,SpaceX's Starship launching to orbit for first time ever today,science,302,358,geox,2026-09-29 20:54:06.105512,1.1815181518151816,True
+49835913,August 27 TCRF DDoS Attack Postmortem,worldnews,34,14,panic,2026-09-29 20:54:13.116081,0.4,False
+49849406,Time Measurement in Game Programming,sports,13,0,ibobev,2026-09-29 20:54:27.965311,0.0,False
